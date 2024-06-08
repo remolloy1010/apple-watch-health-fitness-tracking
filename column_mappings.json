@@ -1,7 +1,5 @@
 {
-  "column_mappings": {
-    "name": "workout_name",
-    "start": "started_at",
-    "end": "completed_at"
-  }
+  "name": "workout_name",
+  "start": "started_at",
+  "end": "completed_at"
 }
